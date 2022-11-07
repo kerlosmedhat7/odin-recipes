@@ -1,0 +1,15 @@
+body{
+    background-color: cornsilk;
+}
+#head{
+    text-align: center;
+    background-color: rgb(228, 144, 84);
+    font-family: monospace, 'Courier New', Courier ;
+    font-size: 50px;
+}
+.list{
+    font-size: 24px;
+    background-color: rgb(228, 144, 84);
+    font-family: 'Courier New', Courier, monospace;
+    display: inline-block;
+}
