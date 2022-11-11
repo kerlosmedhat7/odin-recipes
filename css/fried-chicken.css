@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(209, 114, 47);
+    font-family: monospace;
+    font-size: large;
+}
+#chicken-img{
+    width: 800px;
+    height: auto;
+}
+h1,h3{
+    background-color: antiquewhite;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
