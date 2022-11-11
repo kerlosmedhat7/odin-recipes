@@ -1,0 +1,17 @@
+h1,h3{
+    text-align: center;
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: rgb(172, 90, 32);
+    font-size: large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#koshari-img{
+    height: 500px;
+    width: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
